@@ -6,3 +6,4 @@ i want to push my test suits
 4- git remote add origin 'path'
 5- git barnch -M barnch_name
 6- git push -u origin branch_name
+7- git push -f origin branch_name
